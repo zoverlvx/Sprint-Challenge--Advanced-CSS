@@ -179,7 +179,7 @@ p {
   font-size: 4rem;
 }
 .navigation nav {
-  width: 20%;
+  width: 40%;
   display: flex;
   justify-content: space-evenly;
 }
